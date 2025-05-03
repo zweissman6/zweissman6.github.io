@@ -18,7 +18,7 @@ minimal: false             # use a dark header
 navigation:
   - {file: "index.html", title: "Home"}
   - {file: "projects.html", title: "Projects"}
-  - {file: "cv.html", title: "CV"}
+  - {title: "CV", url: "/assets/Zachary_Weissman_Resume.pdf"}
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
