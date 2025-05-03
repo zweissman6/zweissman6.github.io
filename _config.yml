@@ -19,6 +19,9 @@ navigation:
   - {file: "index.html", title: "Home"}
   - {file: "projects.html", title: "Projects"}
   - {title: "CV", url: "/assets/Zachary_Weissman_Resume.pdf"}
+  - {file: "experience.html", title: "Experience"}
+  - {file: "activities.html", title: "Activities"}
+  - {file: "skills.html", title: "Skills"}
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
